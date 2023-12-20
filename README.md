@@ -4,14 +4,14 @@ This app leverages Rekognition, Lambda, API gateway, S3 and Dynamo DB to process
 
 
 ## Architecture
-![Alt text](../architecture.png)
+![Alt text](./architecture.png)
 
 ## App
-![Alt text](../screenshot.png)
+![Alt text](./screenshot.png)
 
 ## AWS
-![Alt text](../api.png)
-![Alt text](../dynamoDb.png)
-![Alt text](../s3.png)
+![Alt text](./api.png)
+![Alt text](./dynamoDb.png)
+![Alt text](./s3.png)
 
 
